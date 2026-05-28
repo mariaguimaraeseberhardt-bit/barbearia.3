@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entre Presas & Tesouras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="menu">
+    <a href="inicio.html">INICIO</a>
+    <a href="serviços.html">SERVIÇOS</a>
+    <a href="contatos.html">CONTATOS</a>
+  </div>
+
+    <h1 style="color:rgb(95, 58, 169);"> Entre Presas & Tesouras <h1>
+
+    <h2> <p style="color:rgb(242, 231, 255);"> Seja bem-vindo(a) ao melhor salão de todos os versos!! </p> <h2>
+        
+      <body style="background-color:rgb(185, 161, 228);"></body>
+
+        <img src="https://i.pinimg.com/736x/11/07/a1/1107a17cf369951a5f3cff6730091b34.jpg" alt="" >
+
+</body>
+</html>
