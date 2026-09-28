@@ -17,10 +17,35 @@
             </ul>    
         </header>
         <main>
+ <ul class="servicos">
+                <li>
+                    <h2>Cabelo</h2>
+                    <img src="https://i.pinimg.com/474x/0d/27/7a/0d277a17e167d0bf822178ba855f0cbf.jpg">
+                    <p class="descricao">Cortes simples a escolha do cliente com lavagem inclusa</p>
+                    <p class="preco">R$ 30,00</p>
+
+                </li>
+                <li>
+                    <h2>Cabelo + barba</h2>
+                    <img src="https://img.gamdb.com/character/large/63768c4111fd25a6e6d9987465cb9f4d-ns.png">
+                    <p class="descricao">pacote completo de cabelo e barba, lobisomens recebem 25% de desconto</p>
+                    <p class="preco">R$ 25,00 </p>
+
+                </li>
+                <li>
+                    <h2>Corte e hidratação</h2>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0oPQEs_uGFzPqGcAd6NqP7J6O_myix9JFRb8qiEDdOUP77gofrf_gGrA&s=10">
+                    <p class="descricao">pacote completo de corte e hidratação para cabelos ressecados</p>
+                    <p class="preco">R$ 50,00</p>
+
+                </li>
+           
+            </ul>
 
         </main>
         <footer>
-
+ <img src="https://static.wikia.nocookie.net/madeinabyss/images/6/6b/Anime_Nanachi_Human_Square.png/revision/latest/scale-to-width/360?cb=20250520083829">
+            <p>&copy; Sky & Amelie - 2026</p>
         </footer>
 
     </body>
